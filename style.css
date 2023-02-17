@@ -146,7 +146,7 @@ transition: .2s all ease-in-out;
     border-radius: 50%;
   }
   .switch {
-    position: relative;
+    position: absolute;
     display: inline-block;
     width: 60px;
     height: 34px;
